@@ -29,6 +29,7 @@ import Superscript from "@ckeditor/ckeditor5-basic-styles/src/superscript";
 import Subscript from "@ckeditor/ckeditor5-basic-styles/src/subscript";
 import Strikethrough from "@ckeditor/ckeditor5-basic-styles/src/strikethrough";
 import Underline from "@ckeditor/ckeditor5-basic-styles/src/underline";
+import SimpleUploadAdapter from '@ckeditor/ckeditor5-upload/src/adapters/simpleuploadadapter';
 
 export default class ClassicEditor extends ClassicEditorBase {
 }
